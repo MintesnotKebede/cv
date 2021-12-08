@@ -16,7 +16,7 @@
        <td>
           <h1>Mintesnot kebede</h1>
           <p><em>student of <strong><a href="https://www.smuc.edu.et"> st marys </a></strong></em></p>
-          <p>I am computer science student. i like building websites and apps</p>
+          <p>I am computer science student. i build websites and apps</p>
        </td>
       </tr>
 
