@@ -1,4 +1,5 @@
-# cv🔥 mintesnot`s personal site
+# cv
+ mintesnot`s personal site 🔥
 <html lang="en">
 <head>
     <meta charset="UTF-8">
