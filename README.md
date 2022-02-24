@@ -1,5 +1,5 @@
 # cv
- mintesnot`s personal site 🔥
+ mintesnot`s personal site 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -42,7 +42,7 @@
      </thead> 
      <tbody><tr>
          <td>"2009-2010"</td> 
-         <td>"BGIS"</td>
+         <td>"Preparatory"</td>
        </tr>
        <tr>
          <td>"2011-2014"</td>
